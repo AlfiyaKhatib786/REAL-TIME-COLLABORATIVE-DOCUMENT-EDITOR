@@ -24,4 +24,7 @@ One key feature of this setup is the ability to enable real-time collaboration, 
 
 This project provides an excellent foundation for understanding how to build and manage full-stack applications. It highlights the developer's ability to work with multiple tools, manage frontend-backend integration, and troubleshoot port configurations. During development, the user may encounter Git or environment-related warnings, such as "unsafe repository," which can be resolved using Git commands or administrative privileges.
 
+#output
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3d781922-5c28-4650-8ea5-16ab4af7c7a9" />
 
